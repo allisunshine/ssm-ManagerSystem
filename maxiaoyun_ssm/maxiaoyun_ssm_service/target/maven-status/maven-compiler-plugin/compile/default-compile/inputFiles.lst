@@ -1,6 +1,8 @@
 D:\JAVA\IdeaProjects\maxiaoyun_ssm\maxiaoyun_ssm_service\src\main\java\com\maxiaoyun\ssm\service\IPermissionService.java
 D:\JAVA\IdeaProjects\maxiaoyun_ssm\maxiaoyun_ssm_service\src\main\java\com\maxiaoyun\ssm\service\impl\UserServiceImpl.java
 D:\JAVA\IdeaProjects\maxiaoyun_ssm\maxiaoyun_ssm_service\src\main\java\com\maxiaoyun\ssm\service\IOrdersService.java
+D:\JAVA\IdeaProjects\maxiaoyun_ssm\maxiaoyun_ssm_service\src\main\java\com\maxiaoyun\ssm\service\impl\ISysLogServiceImpl.java
+D:\JAVA\IdeaProjects\maxiaoyun_ssm\maxiaoyun_ssm_service\src\main\java\com\maxiaoyun\ssm\service\ISysLogService.java
 D:\JAVA\IdeaProjects\maxiaoyun_ssm\maxiaoyun_ssm_service\src\main\java\com\maxiaoyun\ssm\service\IUserService.java
 D:\JAVA\IdeaProjects\maxiaoyun_ssm\maxiaoyun_ssm_service\src\main\java\com\maxiaoyun\ssm\service\IProductService.java
 D:\JAVA\IdeaProjects\maxiaoyun_ssm\maxiaoyun_ssm_service\src\main\java\com\maxiaoyun\ssm\service\IRoleService.java

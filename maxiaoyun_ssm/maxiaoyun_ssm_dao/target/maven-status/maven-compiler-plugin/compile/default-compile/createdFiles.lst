@@ -1,5 +1,6 @@
 com\maxiaoyun\ssm\dao\IPermissionDao.class
 com\maxiaoyun\ssm\dao\IRoleDao.class
+com\maxiaoyun\ssm\dao\ISysLogDao.class
 com\maxiaoyun\ssm\dao\IProductDao.class
 com\maxiaoyun\ssm\dao\ITravellerDao.class
 com\maxiaoyun\ssm\dao\IMemberDao.class

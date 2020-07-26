@@ -1,5 +1,7 @@
 com\maxiaoyun\ssm\controller\RoleController.class
+com\maxiaoyun\ssm\controller\LogAop.class
 com\maxiaoyun\ssm\controller\PermissionController.class
 com\maxiaoyun\ssm\controller\ProductController.class
 com\maxiaoyun\ssm\controller\OrdersController.class
+com\maxiaoyun\ssm\controller\SysLogController.class
 com\maxiaoyun\ssm\controller\UserController.class
