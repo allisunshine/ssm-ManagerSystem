@@ -1,0 +1,10 @@
+com\maxiaoyun\ssm\service\impl\PermissionServiceImpl.class
+com\maxiaoyun\ssm\service\IPermissionService.class
+com\maxiaoyun\ssm\service\impl\ProductServiceImpl.class
+com\maxiaoyun\ssm\service\IRoleService.class
+com\maxiaoyun\ssm\service\impl\RoleServiceImpl.class
+com\maxiaoyun\ssm\service\IOrdersService.class
+com\maxiaoyun\ssm\service\impl\UserServiceImpl.class
+com\maxiaoyun\ssm\service\IProductService.class
+com\maxiaoyun\ssm\service\impl\OrdersServiceImpl.class
+com\maxiaoyun\ssm\service\IUserService.class

@@ -1,0 +1,7 @@
+com\maxiaoyun\ssm\domain\Traveller.class
+com\maxiaoyun\ssm\domain\UserInfo.class
+com\maxiaoyun\ssm\domain\Member.class
+com\maxiaoyun\ssm\domain\Orders.class
+com\maxiaoyun\ssm\domain\Product.class
+com\maxiaoyun\ssm\domain\Role.class
+com\maxiaoyun\ssm\domain\Permission.class
